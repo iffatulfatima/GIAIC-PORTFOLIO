@@ -25,7 +25,7 @@ export default function Home() {
         <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/i.jfif" 
+          src="/profile.png" 
           alt="Iffat image"
           width={800}
           height={400} 

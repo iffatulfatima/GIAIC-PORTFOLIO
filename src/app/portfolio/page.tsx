@@ -15,7 +15,7 @@ export default function Home() {
             <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/p1.png" 
+          src="/p1.png" 
           alt="Iffat image"
           width={800}
           height={400} 
@@ -28,7 +28,7 @@ export default function Home() {
             <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/p5.png" 
+          src="/p5.png" 
           alt="Iffat image"
           width={800}
           height={400} 
@@ -42,7 +42,7 @@ export default function Home() {
             <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/p2.png" 
+          src="/p2.png" 
           alt="Iffat image"
           width={800}
           height={400} 
@@ -56,7 +56,7 @@ export default function Home() {
             <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/p3.png" 
+          src="/p3.png" 
           alt="Iffat image"
           width={800}
           height={400} 
@@ -68,7 +68,7 @@ export default function Home() {
             <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/p7.png" 
+          src="/p7.png" 
           alt="Iffat image"
           width={800}
           height={400} 
@@ -80,7 +80,7 @@ export default function Home() {
             <div className="image-frame">
         <Image
           className="mt-0"
-          src="/pics/p4.png" 
+          src="/p4.png" 
           alt="Iffat image"
           width={800}
           height={400} 
